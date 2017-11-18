@@ -1,2 +1,0 @@
-# demomobirise
-GitHub Pages
